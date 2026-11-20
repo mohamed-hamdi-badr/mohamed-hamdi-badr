@@ -4,10 +4,10 @@
 
 <br/>
 
+[![Live Portfolio Website](https://img.shields.io/badge/🌐_Live_Website-mohamed--hamdi--badr.github.io-F59E0B?style=for-the-badge)](https://mohamed-hamdi-badr.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hamdi_Badr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdi-badr/)
 [![Email](https://img.shields.io/badge/Email-mohamedhamdibadr9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdibadr9@gmail.com)
 [![Phone / WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20_105_015_6646-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201050156646)
-[![QA Portfolio Repo](https://img.shields.io/badge/Explore-QA_Engineering_Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio)
 
 </div>
 
@@ -65,14 +65,14 @@ Here is a snapshot of real-world platforms I have tested and verified across the
 
 ---
 
-## 📂 Featured QA Engineering Portfolio
+## 📂 Featured QA Engineering & Automation Repositories
 
-> 💡 Looking for code samples, test cases, bug reports, API collections, and JMeter plans?
-> Explore my public **[`qa-engineering-portfolio`](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio)** repository featuring:
-> - 📋 **Enterprise Master Test Suites** (Functional, Regression, Financial Ledger, Security & Localization)
-> - 🐞 **Standardized Defect Reports** (With Root Cause Analysis, HTTP Payloads & SQL Evidence)
-> - 🔌 **Postman / REST API Automation Suites** & JSON Schema Assertions
-> - ⚡ **Apache JMeter Performance Test Architecture** & SQL Data Integrity Audit Queries
+| Repository | Tech Stack & Focus | Quick Link |
+| :--- | :--- | :---: |
+| 🌐 **`mohamed-hamdi-badr.github.io`** | Official QA Engineer Portfolio Website & Downloadable ATS CV | [🔗 Live Website](https://mohamed-hamdi-badr.github.io) |
+| 🛡️ **`qa-engineering-portfolio`** | Master Test Cases (BVA/EP), SQL Financial Ledger Audits, JMeter Architecture & Jira Bug Reports | [📂 View Repo](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio) |
+| 🤖 **`selenium-java-pom-framework`** | Modular **Java 17 + Selenium WebDriver 4 + TestNG + RestAssured** Automation Framework (`Page Object Model`) | [📂 View Repo](https://github.com/mohamed-hamdi-badr/selenium-java-pom-framework) |
+| 🔌 **`postman-api-testing-suite`** | Automated **Postman / Newman REST API** Contract, Schema, SLA & Wallet Ledger Verification Suite | [📂 View Repo](https://github.com/mohamed-hamdi-badr/postman-api-testing-suite) |
 
 ---
 
