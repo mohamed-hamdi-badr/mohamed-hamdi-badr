@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hamdi_Badr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdi-badr/)
 [![Email](https://img.shields.io/badge/Email-mohamedhamdibadr9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdibadr9@gmail.com)
 [![Phone / WhatsApp](https://img.shields.io/badge/WhatsApp-01157236769-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201157236769)
-[![CI Pipeline](https://img.shields.io/github/actions/workflow/status/mohamed-hamdi-badr/qa-engineering-portfolio/qa-ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=QA%20CI%2FCD%20Pipeline)](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio/actions)
+[![QA CI/CD Verified](https://img.shields.io/badge/QA_CI%2FCD_Pipelines-Passing_✓-10B981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio)
 
 </div>
 
