@@ -7,7 +7,8 @@
 [![Live Portfolio Website](https://img.shields.io/badge/🌐_Live_Website-mohamed--hamdi--badr.github.io-F59E0B?style=for-the-badge)](https://mohamed-hamdi-badr.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hamdi_Badr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdi-badr/)
 [![Email](https://img.shields.io/badge/Email-mohamedhamdibadr9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhamdibadr9@gmail.com)
-[![Phone / WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20_105_015_6646-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201050156646)
+[![Phone / WhatsApp](https://img.shields.io/badge/WhatsApp-01157236769-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201157236769)
+[![CI Pipeline](https://img.shields.io/github/actions/workflow/status/mohamed-hamdi-badr/qa-engineering-portfolio/qa-ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=QA%20CI%2FCD%20Pipeline)](https://github.com/mohamed-hamdi-badr/qa-engineering-portfolio/actions)
 
 </div>
 
@@ -88,6 +89,6 @@ Here is a snapshot of real-world platforms I have tested and verified across the
 <div align="center">
 
 ### 🤝 Let's Connect & Build High-Quality Software
-[**LinkedIn**](https://www.linkedin.com/in/mohamed-hamdi-badr/) • [**Email**](mailto:mohamedhamdibadr9@gmail.com) • [**WhatsApp (+20 105 015 6646)**](https://wa.me/201050156646)
+[**🌐 Official Website**](https://mohamed-hamdi-badr.github.io) • [**💼 LinkedIn**](https://www.linkedin.com/in/mohamed-hamdi-badr/) • [**✉️ Email**](mailto:mohamedhamdibadr9@gmail.com) • [**💬 WhatsApp (01157236769)**](https://wa.me/201157236769)
 
 </div>
